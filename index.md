@@ -118,3 +118,6 @@ Pickleball Tournament Manager Privacy Policy
   Contact
 
   Questions or deletion requests can be directed to: accessible.ethical@proton.me
+
+  To ask for your data to be deleted, or to delete it yourself, see
+  https://aeapps.github.io/pickleball-tournament-manager-privacy/delete-data.html
